@@ -22,7 +22,7 @@ class Question {
   }
 
   display(){
-    this.title.html("Meu Jogo de Questionário");
+    this.title.html("Meu Questionário");
     this.title.position(350, 0);
 
     // this.question("Pergunta:- O que é que está no meio do começo, no começo do meio, e no final do fim? " );
