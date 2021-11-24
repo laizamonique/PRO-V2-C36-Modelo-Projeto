@@ -33,9 +33,9 @@ class Question {
     this.question.position(150, 80);
     this.option1.html("1: A letra E " );
     this.option1.position(150, 100);
-    this.option2.html("2: A letra I" );
+    this.option2.html("2: A letra M" );
     this.option2.position(150, 120);
-    this.option3.html("3: A letra M " );
+    this.option3.html("3: A letra I" );
     this.option3.position(150, 140);
     this.option4.html("4: A letra O" );
     this.option4.position(150, 160);
